@@ -1,2 +1,1 @@
-Hello smita
-How r u
+Testing in git
